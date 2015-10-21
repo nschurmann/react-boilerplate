@@ -11,7 +11,7 @@ This boilerplate contains the following:
 - Rewire
 - Webpack
 - Ramda
-- Folkland / data.maybe
+- FolktaleJS / data.maybe
 
 IMPORTANT
 =========
