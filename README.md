@@ -11,7 +11,7 @@ This boilerplate contains the following:
 - Rewire
 - Webpack
 - Ramda
-- FolktaleJS / data.maybe
+- Ramda-fantasy / implement fantasy specification.
 
 IMPORTANT
 =========
